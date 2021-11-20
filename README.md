@@ -7,9 +7,7 @@ Statistics have always had a significant role in sports. Sports analytics is on 
 Shiny is an R package that makes it easy to build interactive web apps straight from R. The dashboard is a visual representation of the overview of IPL from 2008 – 2019. The analysis is done on the performance of each players and the team.
 
 # PROBLEM STATEMENT
-• Visualizing the team and player performance from 2008 – 2019
-
-• Visualization of each player and team in the form of plots for the better understanding of the user.
+• Visualization of the team performance and player performance from 2008 – 2019
 
 • Linear regression model for match win.
 
