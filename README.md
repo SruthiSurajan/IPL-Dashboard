@@ -38,7 +38,8 @@ A linear regression plot was made on the wins and lose of each team. The model h
 The equation used in the linear regression model is 𝒚 = 𝒎𝒙 + 𝒄 where m is the slope, y is the dependent variable, x is the independent variable and c is the y intercept.
 The slope m is calculated using the equation 𝒎 = ∑(𝒙 − 𝒙̅)(𝒚 − 𝒚̅)/〖(x-x ̅)〗^2 
 
-The best fitting regression model was figured out using the Least Squared Method.𝑹^𝟐 = ∑〖(y_p-y)〗^2/〖(y-(y)) ̅〗^2
+The best fitting regression model was figured out using the Least Squared Method.
+𝑹^𝟐 = ∑〖(y_p-y)〗^2/〖(y-(y)) ̅〗^2
 
 # DATASET
 The dataset was collected from kaggle.com. There was a total of 6 csv files which give a description about the data from 2008 – 2019.
